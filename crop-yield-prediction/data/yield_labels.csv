@@ -1,0 +1,10 @@
+filename,yield
+20160120_NDVI.tif,2.3
+20160130_NDVI.tif,2.5
+20190129_NDVI.tif,2.9
+20190305_NDVI.tif,3.0
+20190104_NDVI.tif,1.8
+filename,yield,rainfall,temperature,soil_ph,fertilizer,region
+20160120_NDVI.tif,2.3,120,25.5,6.8,150,North
+20160130_NDVI.tif,2.5,100,26.0,6.5,120,South
+20190129_NDVI.tif,2.9,80,28.2,7.1,180,East
